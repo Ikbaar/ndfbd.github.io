@@ -490,7 +490,7 @@ footer{
 }
 
 /* hp */
-@media (max-width: 576px){
+@media (max-width: 476px){
     html{
         font-size: 60%;
     }
